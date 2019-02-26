@@ -1,0 +1,38 @@
+
+#add-button{
+  background-image: url(img/plus.png);
+  height: 20px;
+  width: 20px;
+  background-size: 20px;
+  border: 0px;
+  margin-top: 3px;
+  margin-left: 12%;
+}
+.add-button-container {
+  float: left;
+}
+.list {
+  padding-top: 30px;
+  width: 300px;
+}
+
+.list-element {
+  margin-top: 5px;
+  width: 300px;
+  height: 16px;
+}
+.list-element .text {
+  float: left;
+  margin-right: 2%;
+}
+.list-element .icons {
+  float: left;
+}
+.list-element .icons .done{
+  float: left;
+  margin-right: 10px;
+}
+.list-element .icons .delete{
+  float: left;
+  cursor: pointer;
+}
