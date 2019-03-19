@@ -36,3 +36,7 @@
   float: left;
   cursor: pointer;
 }
+.lineThrough {
+  text-decoration: line-through;
+  font-weight: bold;
+}
